@@ -1,0 +1,1 @@
+./deploy.sh -r=release -p=utils -p=kernel -p=cpu -p=memoria -p=entradasalida -ip-memoria=192.168.0.1 -ip-kernel=192.168.0.2 -ip-cpu=192.168.0.3 "tp-2024-1c-C-Squad"
